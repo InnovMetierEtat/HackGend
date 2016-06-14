@@ -47,25 +47,25 @@ Projet GendLoc ++
 Sujet 1 : Amélioration des moyens de communication de GendLoc, renvoi de flux vidéo ou photo
 Sujet 2 : Clustering d'appels
 
-####ENSTA (salle 2011)
+######ENSTA (salle 2011)
 Projet : SocialGendMap (SGM)
 
 Sujet 1 : Contextualisation "réseaux sociaux" de l'information de localisation 
 Sujet 2 : Broadcast des téléphones dans la zone
 
-####Epitech Nantes / 42 (salle 2010)
+######Epitech Nantes / 42 (salle 2010)
 Projet AUXILLIUM
 
 Sujet 1 : Interaction bi-directionnelle
 Sujet 2 : Contextualisation de l'incident par des volontaires
 
-####Epitech Montpellier (salle 2009)
+######Epitech Montpellier (salle 2009)
 Projet Geo Secours
 
 Sujet 1 : 112 en ligne, alerte sans téléphone...
 Sujet 2 : plateforme pour l'agrégation et la mise en forme de différentes données (Images, Textes et Localisations) depuis les réseaux sociaux.
 
-###Epitech Nice (salle 2008)
+######Epitech Nice (salle 2008)
 Projet Flow Tracker
 
 Sujet 1 : Page de localisation en fonction du débit
@@ -76,12 +76,12 @@ Sujet 2 : Contact des personnes aidantes proches
 Epitech Montpelier
 Présentation de l'application et du backoffice, démo en live
 
-####Epitech Nice
+######Epitech Nice
 
 Sujet 1 : FlowTracker, amélioration de l'existant gendarmerie adaptation de l'interface en fonction de la bande passante
 Sujet 2 : les secours ont besoin d'une aide extérieure
 
-####EISTI / 42 
+######EISTI / 42 
 Sujet 1 : Pendant la communication en phonie, le CORG envoir un SMS -> interface HTML (comme GendLoc) puis l'opérateur demande à la victime d'effectuer certaines actions : 
 
     télécharger une fiche reflexe
@@ -92,7 +92,7 @@ Sujet 1 : Pendant la communication en phonie, le CORG envoir un SMS -> interface
 
 Amélioration de l'interface utilisateur de gendloc
 
-####ENSTA
+######ENSTA
 Sujet 1 : thème 2, sur une carte des informations de contexte : réseaux sociaux, géographie ou données gendarmerie.
 Une seule carte : twitter, instagram, facebook, periscope, possibilité de clustering
 Technologies :
@@ -105,7 +105,7 @@ Technologies :
 
 
 
-####Epitech Nantes / 42 (salle 2010)
+######Epitech Nantes / 42 (salle 2010)
 Application pour la mobilisation de volontaires
 Les volontaires inscrits peuvent répondre présents ou non
 Incidents (événements, danger...) saisis et présentés dans l'application
@@ -115,7 +115,7 @@ Incidents (événements, danger...) saisis et présentés dans l'application
 
 Présentation et points techniques
 
-####Epitech Montpelier
+######Epitech Montpelier
 
 Améliorer la communication lors d'une catastrophe 
 url publique pour joindre les services de secours
@@ -134,7 +134,7 @@ Techno :
 
 
 
-####Epitech Nice
+######Epitech Nice
 
 FlowTracker : 
     
@@ -181,7 +181,7 @@ Partie 2 :
     App android
 
 
-####EISTI / 42 
+######EISTI / 42 
 
 Rappel du sujet 1 : Etendre les fonctions de GendLoc avec entre autres des flux vidéos.
 Envoie photo si la bande passante ne permet pas le flux vidéo
@@ -193,7 +193,7 @@ Flux vidéo webRTC avec notion de room (conférence possible)
 
 Difficultés avec Safari (webRTC)
 
-####ENSTA
+######ENSTA
 
 Rappel du sujet : 
     sur une carte des informations de contexte : réseaux sociaux, géographie ou données gendarmerie.
@@ -206,7 +206,7 @@ PHP + twitteroauth pour authentification twitter  (à venir)
 Cote client
 JS : leaflet / openstreetmap. 
 
-####Epitech Nantes / 42 (salle 2010)
+######Epitech Nantes / 42 (salle 2010)
 
 Projet Auxillium
 
@@ -233,7 +233,7 @@ gestion Push Pull (push préféré)
 
 ###Présentations 10h30 (amphi Delfosse)
 
-####Equipe : Epitech Nice (salle 2008)
+######Equipe : Epitech Nice (salle 2008)
 
 Projet FlowTracker
 
@@ -268,7 +268,7 @@ Questions :
     Autre question sur la gestion de la bande passante : quelle est la limite de débit ?
 
 
-###Epitech Montpelier
+######Epitech Montpelier
 
 Projet Geo Secours
 
@@ -313,7 +313,7 @@ Questions :
     Un premier message permet de savoir que cela a été pris en compte. Par la suite, chat envisageable...
 
 
-####EISTI / 42 (salle 2013)
+######EISTI / 42 (salle 2013)
 
 Projet GendLoc ++
 
@@ -354,7 +354,7 @@ Axes d'amélioration :
 
 
 
-####ENSTA
+######ENSTA
 Projet : SocialGendMap (SGM)
 
 Présentation des membres de l'équipe
@@ -392,7 +392,7 @@ Améliorations :
     prendre en compte le modèle économique des réseaux sociaux, tel twitter qui limite la gratuité de la récolte à un seuil et une durée
 
 
-####Epitech Nantes / 42 (salle 2010)
+######Epitech Nantes / 42 (salle 2010)
 Projet AUXILLIUM
 
 Problématique : 
@@ -480,7 +480,7 @@ Nous invitons les contributeurs de ces projet à faire leurs pull request vers c
 ###Liens presse/médias
 
 
-###Vidéos
+######Vidéos
 
 BFMTV : http://bfmbusiness.bfmtv.com/mediaplayer/video/les-news-de-la-tech-la-gendarmerie-nationale-lance-son-premier-hackathon-1804-797556.html
 
@@ -489,7 +489,7 @@ Vidéo Ministère de l'Intérieur : http://www.dailymotion.com/video/x45twj4_hac
 Vidéo Gendarmerie : https://amp.twimg.com/v/9866b346-6114-44c3-82f8-da49d09f63e9
 
 
-###Articles
+######Articles
 
 Ecole EISTI : https://eisti.fr/fr/article/1er-hackathon-de-la-gendarmerie-nationale
 
