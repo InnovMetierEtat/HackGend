@@ -41,7 +41,7 @@ Ce challenge doit être pour la gendarmerie l'occasion de consolider les liens a
 ###Les équipes
 
 
-#####EISTI / 42 (salle 2013)
+######EISTI / 42 (salle 2013)
 Projet GendLoc ++
 
 Sujet 1 : Amélioration des moyens de communication de GendLoc, renvoi de flux vidéo ou photo
