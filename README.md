@@ -31,11 +31,11 @@ Ce challenge doit être pour la gendarmerie l'occasion de consolider les liens a
 
 ###Les thèmes
 
-    Thème 1 : mieux interagir avec la personne en détresse à partir du téléphone portable
+- Thème 1 : mieux interagir avec la personne en détresse à partir du téléphone portable
 
-    Thème 2 : mieux appréhender et utiliser l'environnement de la personne en détresse, à partir des téléphones portables à proximité
+- Thème 2 : mieux appréhender et utiliser l'environnement de la personne en détresse, à partir des téléphones portables à proximité
 
-    Thème 3 : collecter des informations de masse utiles aux interventions en cas de situation exceptionnelle
+- Thème 3 : collecter des informations de masse utiles aux interventions en cas de situation exceptionnelle
 
 
 ###Les équipes
