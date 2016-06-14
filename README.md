@@ -71,7 +71,7 @@ Projet Flow Tracker
 Sujet 1 : Page de localisation en fonction du débit
 Sujet 2 : Contact des personnes aidantes proches
 
-###Premières restitutions 10h00
+###Mardi matin: Premières restitutions 10h00
 
 Epitech Montpelier
 Présentation de l'application et du backoffice, démo en live
@@ -111,7 +111,7 @@ Les volontaires inscrits peuvent répondre présents ou non
 Incidents (événements, danger...) saisis et présentés dans l'application
 
 
-###Secondes restitutions 14h00
+###Mardi AM: Secondes restitutions 14h00
 
 Présentation et points techniques
 
@@ -231,7 +231,7 @@ Difficultés ?
 difficultés avec REDIS GEO techno pas forcément mature....
 gestion Push Pull (push préféré)
 
-###Présentations 10h30 (amphi Delfosse)
+###Mercredi matin: Présentations 10h30 (amphi Delfosse)
 
 ######Equipe : Epitech Nice (salle 2008)
 
@@ -440,45 +440,41 @@ Intégration des réservistes...
 Démo 
  
  
-### Lauréats
+##Lauréats
 
-Epitech / Ecole 42 : projet Auxillium
-
-ENSTA : projet SocialGendMap
-
-EISTI / école 42 : projet GendLoc++
+1. Epitech / Ecole 42 : projet Auxillium
+2. ENSTA : projet SocialGendMap
+3. EISTI / école 42 : projet GendLoc++
 
 
-Epitech Montpellier au pied du podium
-5ème place pour l'Epitech Nice 
+- Epitech Montpellier au pied du podium
+- 5ème place pour l'Epitech Nice 
 
 
 ###Liens
 
-Les site de présentation : http://gendarmerienationale.github.io/hackathongendloc/
+- Les site de présentation : http://gendarmerienationale.github.io/hackathongendloc/
 
-GendLoc installable avec Vagrant : https://github.com/GendarmerieNationale/PA_GENDLOC_final
+- GendLoc installable avec Vagrant : https://github.com/GendarmerieNationale/PA_GENDLOC_final
 
 
 ###Les projets sur GitHub
 
-socialgendmap : https://github.com/GuillaumeLe/socialgendmap
-FlowTracker: https://github.com/MrDarkSkil/FlowTracker
-Gendloc++: https://github.com/FunkySayu/GendLoc-
-Geo-Secours: https://github.com/sicardf/Geo-Secours
+- socialgendmap : https://github.com/GuillaumeLe/socialgendmap
+- FlowTracker: https://github.com/MrDarkSkil/FlowTracker
+- Gendloc++: https://github.com/FunkySayu/GendLoc-
+- Geo-Secours: https://github.com/sicardf/Geo-Secours
 
 
 Projets forkés vers le github GendarmerieNationale : 
 
+- Gendloc++  :  https://github.com/GendarmerieNationale/GendLoc- 
+- Geo-secours : https://github.com/GendarmerieNationale/Geo-Secours
 
-Gendloc++  :  https://github.com/GendarmerieNationale/GendLoc- 
-Geo-secours : https://github.com/GendarmerieNationale/Geo-Secours
-
-Nous invitons les contributeurs de ces projet à faire leurs pull request vers ces dépôts, désormais
+Nous invitons les contributeurs de ces projet à faire leurs pull request vers ces dépôts désormais.
 
 
 ###Liens presse/médias
-
 
 ######Vidéos
 
