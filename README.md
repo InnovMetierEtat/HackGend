@@ -442,10 +442,9 @@ Démo
  
 ##Lauréats
 
-1. Epitech / Ecole 42 : projet Auxillium
-2. 2. ENSTA : projet SocialGendMap
-3. 3. EISTI / école 42 : projet GendLoc++
-4. 
+- 1/ Epitech / Ecole 42 : projet Auxillium
+- 2/ ENSTA : projet SocialGendMap
+- 3/ EISTI / école 42 : projet GendLoc++
 - Epitech Montpellier au pied du podium
 - 5ème place pour l'Epitech Nice 
 
