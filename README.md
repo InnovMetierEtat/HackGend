@@ -438,15 +438,14 @@ Evolutions
 Intégration des réservistes...
 
 Démo 
- 
+
  
 ##Lauréats
 
 1. Epitech / Ecole 42 : projet Auxillium
-2. ENSTA : projet SocialGendMap
-3. EISTI / école 42 : projet GendLoc++
-
-
+2. 2. ENSTA : projet SocialGendMap
+3. 3. EISTI / école 42 : projet GendLoc++
+4. 
 - Epitech Montpellier au pied du podium
 - 5ème place pour l'Epitech Nice 
 
@@ -454,7 +453,6 @@ Démo
 ###Liens
 
 - Les site de présentation : http://gendarmerienationale.github.io/hackathongendloc/
-
 - GendLoc installable avec Vagrant : https://github.com/GendarmerieNationale/PA_GENDLOC_final
 
 
@@ -478,22 +476,16 @@ Nous invitons les contributeurs de ces projet à faire leurs pull request vers c
 
 ######Vidéos
 
-BFMTV : http://bfmbusiness.bfmtv.com/mediaplayer/video/les-news-de-la-tech-la-gendarmerie-nationale-lance-son-premier-hackathon-1804-797556.html
-
-Vidéo Ministère de l'Intérieur : http://www.dailymotion.com/video/x45twj4_hackathon-de-la-gendarmerie-nationale-2016_news
-
-Vidéo Gendarmerie : https://amp.twimg.com/v/9866b346-6114-44c3-82f8-da49d09f63e9
-
+- BFMTV : http://bfmbusiness.bfmtv.com/mediaplayer/video/les-news-de-la-tech-la-gendarmerie-nationale-lance-son-premier-hackathon-1804-797556.html
+- Vidéo Ministère de l'Intérieur : http://www.dailymotion.com/video/x45twj4_hackathon-de-la-gendarmerie-nationale-2016_news
+- Vidéo Gendarmerie : https://amp.twimg.com/v/9866b346-6114-44c3-82f8-da49d09f63e9
 
 ######Articles
 
-Ecole EISTI : https://eisti.fr/fr/article/1er-hackathon-de-la-gendarmerie-nationale
-
-Revue du digital : http://www.larevuedudigital.com/2016/04/15/la-gendarmerie-nationale-organise-son-premier-hackathon-le-18-avril/
-
-Zataz : http://www.zataz.com/gendarmerie-nationale-lance-1er-hackathon/
-
-APIE : http://www.economie.gouv.fr/apie/apie-partenaire-premier-hackathon-gendarmerie-nationale
+- Ecole EISTI : https://eisti.fr/fr/article/1er-hackathon-de-la-gendarmerie-nationale
+- Revue du digital : http://www.larevuedudigital.com/2016/04/15/la-gendarmerie-nationale-organise-son-premier-hackathon-le-18-avril/
+- Zataz : http://www.zataz.com/gendarmerie-nationale-lance-1er-hackathon/
+- APIE : http://www.economie.gouv.fr/apie/apie-partenaire-premier-hackathon-gendarmerie-nationale
 
 
 
