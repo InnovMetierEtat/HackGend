@@ -41,31 +41,31 @@ Ce challenge doit être pour la gendarmerie l'occasion de consolider les liens a
 ###Les équipes
 
 
-######EISTI / 42 (salle 2013)
+######EISTI / 42 
 Projet GendLoc ++
 
 Sujet 1 : Amélioration des moyens de communication de GendLoc, renvoi de flux vidéo ou photo
 Sujet 2 : Clustering d'appels
 
-######ENSTA (salle 2011)
+######ENSTA 
 Projet : SocialGendMap (SGM)
 
 Sujet 1 : Contextualisation "réseaux sociaux" de l'information de localisation 
 Sujet 2 : Broadcast des téléphones dans la zone
 
-######Epitech Nantes / 42 (salle 2010)
+######Epitech Nantes / 42 
 Projet AUXILLIUM
 
 Sujet 1 : Interaction bi-directionnelle
 Sujet 2 : Contextualisation de l'incident par des volontaires
 
-######Epitech Montpellier (salle 2009)
+######Epitech Montpellier 
 Projet Geo Secours
 
 Sujet 1 : 112 en ligne, alerte sans téléphone...
 Sujet 2 : plateforme pour l'agrégation et la mise en forme de différentes données (Images, Textes et Localisations) depuis les réseaux sociaux.
 
-######Epitech Nice (salle 2008)
+######Epitech Nice
 Projet Flow Tracker
 
 Sujet 1 : Page de localisation en fonction du débit
