@@ -1,6 +1,8 @@
 # hackathon-hackgend
 Documentation du 1er Hackathon de la DGGN autour d'une web app de géolocalisation
 
+RETEX DGGN: https://github.com/InnovMetierEtat/HackGend/blob/master/retex%20hackathon%20ccommons.pdf
+
 ##Geo-Secours
 https://github.com/sicardf/Geo-Secours
 
